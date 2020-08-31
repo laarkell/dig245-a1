@@ -1,6 +1,6 @@
 # Hello World!
 
-<p> a) <h2 style="color:Tomato;">Lauren Arkell, Junior, Physics Major</h2> <br>
+<p> a) Lauren Arkell, Junior, Physics Major <br>
 b) I am taking this class because I am considering becoming a digital studies minor and I am intrigued by web design. <br>
 c) For web-design experience, I have minimally used Davidson domains in one prior course. For programming experience, I have taken a course that used R/R-studio and a course in python/jupyter notebooks. I also was exposed to HMTL in digital literature. <br>
 d) My goals for this course are to familiarize myself with more code platforms and to understand the work done behind the scenes of websites. </p>
@@ -19,4 +19,4 @@ The beauty of nature doesn’t need to be hard to find. Our goal is simple - bui
 <p> 3)<code>National Geographic</code>, https://www.nationalgeographic.com/ <br>
 I love the design of this website because unlike most sites, the background base color is black. To me, this makes the pictures and words stand out more.
 There is also a combination of articles, videos, photos, and many other things and they all seamlessly fit together on their main webpage. </p>
-<h3 style="background-color:DodgerBlue;">Thanks for Reading!</h3>
+## Thanks for Reading!
