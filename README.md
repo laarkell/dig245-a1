@@ -1,10 +1,9 @@
 # Hello World!
 
-a) Lauren Arkell, Junior, Physics Major
-b) I am taking this class because I am considering becoming a digital studies minor and I am intrigued by web design.
-c) For web-design experience, I have minimally used Davidson domains in one prior course.
-For programming experience, I have taken a course that used R/R-studio and a course in python/jupyter notebooks. I also was exposed to HMTL in digital literature.
-d) My goals are to familiarize myself with more code platforms and to understand the work behind the scenes of websites.
+<p> a) Lauren Arkell, Junior, Physics Major <br>
+b) I am taking this class because I am considering becoming a digital studies minor and I am intrigued by web design. <br>
+c) For web-design experience, I have minimally used Davidson domains in one prior course. For programming experience, I have taken a course that used R/R-studio and a course in python/jupyter notebooks. I also was exposed to HMTL in digital literature. <br>
+d) My goals are to familiarize myself with more code platforms and to understand the work behind the scenes of websites. </p>
 e) <p> 1) <code>Netflix</code>, https://www.netflix.com/browse <br>
 One feature of Netflix that is interesting to me is that after you watch one show, there is an algorithm that spits out lists of shows you might like. Some of them even have a percent compatibility according to what you've already watched.
 I also enjoy how you can hover your mouse over a movie or show cover and it plays a snapshot from that show to give you an insight on what its about. <br>
