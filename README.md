@@ -19,4 +19,4 @@ The beauty of nature doesn’t need to be hard to find. Our goal is simple - bui
 <p> 3)<code>National Geographic</code>, https://www.nationalgeographic.com/ <br>
 I love the design of this website because unlike most sites, the background base color is black. To me, this makes the pictures and words stand out more.
 There is also a combination of articles, videos, photos, and many other things and they all seamlessly fit together on their main webpage. </p>
-<button type="button">Thanks for reading!</button>
+<h3 style="background-color:DodgerBlue;">Thanks for Reading!</h3>
