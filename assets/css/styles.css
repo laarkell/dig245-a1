@@ -36,6 +36,6 @@ ul{
 .yum{
   max-width: 450px;
   max-height: 450px;
-  transform:rotate(270deg);
+  transform:rotate(90deg);
   text-align: center;
 }
