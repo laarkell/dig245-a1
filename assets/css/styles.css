@@ -1,2 +1,35 @@
 
 /* css */
+body{
+  background-color:
+}
+.images{
+  max-width: 350px;
+  max-height: 350px;
+  transform:rotate(90deg);
+}
+h1{
+  font-size: 80px;
+  font-family:verdana;
+}
+h3{
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-style: bold;
+  font-size: 25px;
+}
+h2{
+  font-style: bold;
+  font-size: 60px;
+  text-transform: uppercase;
+  text-align: center;
+  color:#005aeb;
+}
+h5{
+  color: #00d3eb;
+}
+ul{
+  background-color: #e6f9ff;
+}
