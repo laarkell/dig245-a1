@@ -33,3 +33,9 @@ h5{
 ul{
   background-color: #e6f9ff;
 }
+
+.yum{
+  max-width: 450px;
+  max-height: 450px;
+  transform:rotate(270deg);
+}
