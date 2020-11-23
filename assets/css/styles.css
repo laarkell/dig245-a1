@@ -37,4 +37,5 @@ ul{
   max-width: 450px;
   max-height: 450px;
   transform:rotate(270deg);
+  text-align: center;
 }
