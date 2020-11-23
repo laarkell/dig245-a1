@@ -34,8 +34,8 @@ ul{
   background-color: #e6f9ff;
 }
 .yum{
-  max-width: 450px;
-  max-height: 450px;
+  max-width: 350px;
+  max-height: 350px;
   transform:rotate(90deg);
   text-align: center;
 }
